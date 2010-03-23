@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{Easy to use file relative paths}
     gem.description = %Q{Easy to use file relative paths}
     gem.email = "bradphelan@xtargets.com"
-    gem.homepage = "github.org/bradphelan/thisfile"
+    gem.homepage = "http://github.org/bradphelan/thisfile"
     gem.authors = ["Brad Phelan"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
