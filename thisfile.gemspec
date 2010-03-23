@@ -25,9 +25,10 @@ Gem::Specification.new do |s|
      "lib/thisfile.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb",
-     "spec/thisfile_spec.rb"
+     "spec/thisfile_spec.rb",
+     "thisfile.gemspec"
   ]
-  s.homepage = %q{github.org/bradphelan/thisfile}
+  s.homepage = %q{http://github.org/bradphelan/thisfile}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
