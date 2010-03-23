@@ -1,6 +1,13 @@
 = thisfile
 
-Description goes here.
+Easy to use file relative path.
+
+Usage:
+
+    require 'thisfile'
+
+    ThisFile / "foo.rb"
+
 
 == Note on Patches/Pull Requests
  
